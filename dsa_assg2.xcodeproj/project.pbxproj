@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		75C756F2247E4DA20046F6EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75C756F1247E4DA20046F6EE /* main.cpp */; };
+		75C756FC247E4E9D0046F6EE /* directed_graph_algorithms.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75C756FB247E4E9D0046F6EE /* directed_graph_algorithms.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		75C756EE247E4DA20046F6EE /* dsa_assg2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dsa_assg2; sourceTree = BUILT_PRODUCTS_DIR; };
 		75C756F1247E4DA20046F6EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		75C756F9247E4DD60046F6EE /* directed_graph.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = directed_graph.hpp; sourceTree = "<group>"; };
+		75C756FB247E4E9D0046F6EE /* directed_graph_algorithms.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = directed_graph_algorithms.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				75C756F1247E4DA20046F6EE /* main.cpp */,
+				75C756FB247E4E9D0046F6EE /* directed_graph_algorithms.cpp */,
+				75C756F9247E4DD60046F6EE /* directed_graph.hpp */,
 			);
 			path = dsa_assg2;
 			sourceTree = "<group>";
@@ -119,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75C756FC247E4E9D0046F6EE /* directed_graph_algorithms.cpp in Sources */,
 				75C756F2247E4DA20046F6EE /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
