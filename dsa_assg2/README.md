@@ -1,4 +1,4 @@
-\f0\fs24 \cf0 ## DATA STRUCTURES AND ALGORITHMS \
+## DATA STRUCTURES AND ALGORITHMS \
 ## Assignment 2\
 <u>Groupwork</u>: Individual<br/>\
 <u>Weight</u>: **35%**<br/>\
